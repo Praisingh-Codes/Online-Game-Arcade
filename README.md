@@ -52,17 +52,18 @@ This project reflects the growing demand for on-the-go digital entertainment and
    
    python -m venv venv
    
-   source venv/bin/activate # On Windows: venv\Scripts\activate
+   (On Linux/Mac: source venv/bin/activate)
+   (On Windows: venv\Scripts\activate)
 
 
-3. Install Dependencies
+4. Install Dependencies
    
    Terminal - Command
     
    pip install -r requirements.txt
 
 
-4. Set Up the Database
+5. Set Up the Database
 
    Import arcadiadb.sql into your MySQL server:
 
@@ -77,7 +78,7 @@ This project reflects the growing demand for on-the-go digital entertainment and
    Update your MySQL credentials in app.py or a config file.
 
 
-5. Run the Web Application
+6. Run the Web Application
    
    Terminal - Command
    
