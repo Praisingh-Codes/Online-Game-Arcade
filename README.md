@@ -53,6 +53,7 @@ This project reflects the growing demand for on-the-go digital entertainment and
    python -m venv venv
    
    (On Linux/Mac: source venv/bin/activate)
+   
    (On Windows: venv\Scripts\activate)
 
 
